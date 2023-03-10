@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">📚 Estudos: Me aprofundo em um estudo concreto de backend, focado em conceitos e não em framewokrs, além disso, focado em uma metodologia dev em <T>.<br>🎯 Objetivos: Me tornar um programador calejado e experiente para conseguir lidar com quaisquer desafios!<br>🎲 Hobbies: Games 🎮, Filmes 📣, Musica 🎸, Proza 🔊, rolê de moto 🏍...</p>
+<p align="left">📚 Estudos: Me aprofundo em um estudo concreto de backend, focado em conceitos e não em framewokrs, além disso, focado em uma metodologia dev em &lt;T&gt;.<br>🎯 Objetivos: Me tornar um programador calejado e experiente para conseguir lidar com quaisquer desafios!<br>🎲 Hobbies: Games 🎮, Filmes 📣, Musica 🎸, Proza 🔊, rolê de moto 🏍...</p>
 
 ###
 
